@@ -117,6 +117,7 @@ const FutureTemp = styled.div`
   position: absolute;
   bottom: 40px;
   font-weight: 800;
+  font-size: 18;
   width: 75%;
   text-align: center;
 `;
@@ -125,6 +126,7 @@ const FutureDay = styled.div`
   position: absolute;
   top: 40px;
   font-weight: 800;
+  font-size: 20px;
   width: 75%;
   text-align: center;
 `;
